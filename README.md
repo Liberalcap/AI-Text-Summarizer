@@ -17,6 +17,8 @@ This project is built with Spring Boot and provides REST API endpoints for text 
 - Maven (for dependency management)
 
 🎥 Demo
+
 <img width="1008" height="967" alt="Screenshot 2025-08-18 212348" src="https://github.com/user-attachments/assets/34f13fe3-19df-4f96-ac91-c8dd00c03468" />
+
 
 <img width="1920" height="1101" alt="Screenshot 2025-08-18 212337" src="https://github.com/user-attachments/assets/0f7f4f2c-1582-4e63-ac46-1cac714c3fb0" />
