@@ -1,27 +1,19 @@
-# Maven
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# Ignore Maven target folder
+/target/
 
-# IntelliJ IDEA
+# Ignore IntelliJ IDEA project files
 .idea/
 *.iml
-*.iws
-out/
 
-# Eclipse
-.project
-.classpath
-.settings/
+# Ignore logs
+*.log
 
-# OS
+# Ignore OS-specific files
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
+# Ignore application properties (contains secrets)
+src/main/resources/application.properties
 
-# Environment & config
-*.env
-application.properties
+# Ignore build output
+/out/
